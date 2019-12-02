@@ -5712,8 +5712,11 @@
 {
 	max-width: 600px;}
 	.box_v1 {
-	width: 250px;
-	height: 200px;
-	margin-left: 200px;
-    margin-right: 200px
+	width: 400px;
+	height: 300px;
+	margin-left: auto;
+    margin-right: auto;
+	}
+	.boxv1 {
+		text-align: center;
 	}
